@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Djordje995 
 
-<!--
-**Djordje995/Djordje995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"I'm a Linux enthusiast and hobbyist who loves diving into the complexities of the open-source world. From scripting in Bash to configuring custom setups on Arch Linux, I enjoy tinkering with various tools and technologies. I'm passionate about learning and experimenting with new ideas, especially in areas like kernel development, electronics, and creative coding. When I'm not coding, you can find me exploring assembly language, working on retro computing projects, or simply enjoying the challenges of the terminal. Just another random Linux user, continuously learning and growing."
 
-Here are some ideas to get you started:
+## Technologies & Tools
+- Linux (Arch)
+- Kernel Development
+- Electronics
+- Creative Coding
+- C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Assembly Language
+- Real-Time Operating Systems (RTOS)
+- Quantum Computing Basics
+
+## Projects I'm working on
+- Retro computing setups
+- CLI applications in C++
+- Hoby project
+Feel free to explore my repositories and connect with me!
+
