@@ -1,4 +1,4 @@
-# Hi there, I'm Kosovac
+# Hi there, I'm Đorđe Kosovac
 
 "I'm a Linux enthusiast and hobbyist who loves diving into the complexities of the open-source world. From scripting in Bash to configuring custom setups on Arch Linux, I enjoy tinkering with various tools and technologies. I'm passionate about learning and experimenting with new ideas, especially in areas like kernel development, electronics, and creative coding. When I'm not coding, you can find me exploring assembly language, working on retro computing projects, or simply enjoying the challenges of the terminal. Just another random Linux user, continuously learning and growing."
 
